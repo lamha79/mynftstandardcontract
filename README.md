@@ -1,0 +1,2 @@
+# mynftstandardcontract
+ K10
